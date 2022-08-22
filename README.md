@@ -1,5 +1,5 @@
 # python-workshop
-The material of a two-day Python workshop for PhDs/researchers that I gave at the Chair of Innovation Economics, TU Berlin.
+The material of a two-day Python workshop for PhDs/researchers that I gave in 2019.
 
 Two parts:
 
